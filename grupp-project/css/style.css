@@ -1,0 +1,11 @@
+#F,
+#O,
+#X {
+    margin: 1em;
+    font-size: 4rem;
+    text-decoration: underline;
+}
+
+#wrong {
+    font-size: 3rem;
+}
